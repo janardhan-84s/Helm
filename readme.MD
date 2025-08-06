@@ -19,5 +19,12 @@ files.using HELM we can achieve this.
 
 ## How to use Helm ##
 
-The file must be "chart.yaml"
+1. The file must be "chart.yaml"
 we place all our Hewlm information in "chart.yaml"
+
+2. We can also creating a template folder to our main code
+3. without touching the main code, if any changes are done in future and we need to update 
+   them.
+   We use "values.yaml " file 
+4. In this values.yaml file we can write a section to our changes
+5. In the main code we can refer to values.yaml file like this "{{ .Values.service.targetPort }}"
