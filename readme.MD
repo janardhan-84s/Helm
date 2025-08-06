@@ -13,9 +13,9 @@ files.using HELM we can achieve this.
 
 ## Installing Helm ##
 
-curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
-chmod 700 get_helm.sh
-./get_helm.sh
+1. curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/  get-helm-3
+2. chmod 700 get_helm.sh
+3. ./get_helm.sh
 
 ## How to use Helm ##
 
