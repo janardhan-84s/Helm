@@ -1,6 +1,6 @@
 ## HELM ##
 
-Generally, we are having poen source Imgaesw like Redis, RabbitMQ. We are not pushing the
+Generally, we are having poen source Images like Redis, RabbitMQ. We are not pushing the
 images in Docker hub. 
 similraly, like open source images.
 we are having open source manifest files to run the images. we don't need to write manifest
