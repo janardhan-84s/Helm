@@ -20,7 +20,7 @@ files.using HELM we can achieve this.
 ## How to use Helm ##
 
 1. The file must be "chart.yaml"
-we place all our Hewlm information in "chart.yaml"
+we place all our Helm information in "chart.yaml"
 
 2. We can also creating a template folder to our main code
 3. without touching the main code, if any changes are done in future and we need to update 
