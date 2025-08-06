@@ -1,0 +1,6 @@
+# In this "values.yaml " we can mention our customize changes without touching main code
+deployment:
+  replicas: 4
+  imageVersion: stable-otel
+service:
+  targetPort: 80

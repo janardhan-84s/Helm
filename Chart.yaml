@@ -1,7 +1,7 @@
 # This is for Helm chart representaion
-apiVersion: v2
-name: nginx
-version: 1.0.0 # chart version
+apiVersion: v2                 #
+name: nginx                    # ---basic things
+version: 1.0.0 # chart version #
 description: nginx helm chart description
 appVersion: 1.0.1 # application version
 
